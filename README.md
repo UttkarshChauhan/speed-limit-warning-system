@@ -1,6 +1,6 @@
-# ???? Project Title: Speed Limit Alert Simulator
+#  Project Title: Speed Limit Alert Simulator
 
-## ???? Description
+##  Description
 
 This project is a simple simulation of a vehicle speed limit alert system. It requires the input of the **official speed limit** and the **current vehicle speed**, and it gives the user instant feedback about the speed, categorizing it as **OK**, **Warning**, **Alert**, or **Critical** based on predefined thresholds.
 
